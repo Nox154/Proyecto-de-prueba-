@@ -8,6 +8,9 @@
     padding: 0;
     margin: 0;
 }
+h2{
+
+}
 h3{
     font-family: Tomorrow,sans-serif;
     color: #fcee09;
@@ -30,6 +33,7 @@ h4{
 }
 
 body {
+    justify-items
     min-height: 100vh;
     font-family: 'Cyber', sans-serif;
     background: linear-gradient(90deg, #f5ed00 60%, #e6de00 60%), #fff700;
@@ -74,4 +78,15 @@ body {
 }
 .bg-light{
     background-color: #fcee09;
+} 
+
+.header {
+    color: #36A0FF;
+    font-size: 27px;
+    padding: 10px;
+}
+
+.bigicon {
+    font-size: 35px;
+    color: #36A0FF;
 }
